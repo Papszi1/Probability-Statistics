@@ -9,4 +9,4 @@ def variance(X: list[float]) -> float:
     print(f"The variance for the input is: {Xsqrexp - (Xexp**2)}")
     return Xsqrexp - (Xexp**2)
 
-variance(X = [2,4,9])
+#variance(X = [2,4,9])
